@@ -1,2 +1,3 @@
 20acc6d5d5e0c4140387bc3445b8b3244d74c1c509bd98f62b4ee63bec31a92b  bitcoin-0.14.2-x86_64-linux-gnu.tar.gz
 ae3efa47bf87a694a5368cd6fea96c9942fe9be7856720b5027c8902e46a88d1  bitcoin-0.15.0.1-x86_64-linux-gnu.tar.gz
+5d422a9d544742bc0df12427383f9c2517433ce7b58cf672b9a9b17c2ef51e4f  bitcoin-0.16.3-x86_64-linux-gnu.tar.gz
